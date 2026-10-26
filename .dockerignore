@@ -1,0 +1,19 @@
+# Keep the real API key out of the image.
+.env
+
+# Version control
+.git
+
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
